@@ -68,4 +68,8 @@
 
 ### ☕ Support Me
 
-[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/nitishojha6)
+<p>
+  <a href="https://www.buymeacoffee.com/nitishojha6" target="_blank">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px;" />
+  </a>
+</p>
