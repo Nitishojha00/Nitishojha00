@@ -37,12 +37,22 @@
 
 ---
 
-### 🌐 Socials
+### 🌐 Let's Connect
 
-[![GitHub](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg)](https://github.com/Nitishojha00)
-[![LinkedIn](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg)](https://linkedin.com/in/nitishojha00/)
-[![Instagram](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg)](http://www.instagram.com/nitishojha00)
-[![YouTube](https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg)](https://www.youtube.com/@nitishojhaa)
+<p align="left">
+  <a href="https://github.com/Nitishojha00" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" alt="GitHub" height="30" />
+  </a>
+  <a href="https://linkedin.com/in/nitishojha00/" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" alt="LinkedIn" height="30" />
+  </a>
+  <a href="https://instagram.com/nitishojha00" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" alt="Instagram" height="30" />
+  </a>
+  <a href="https://www.youtube.com/@nitishojhaa" target="_blank">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" alt="YouTube" height="30" />
+  </a>
+</p>
 
 ---
 
