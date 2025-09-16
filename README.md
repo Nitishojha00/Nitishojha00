@@ -10,7 +10,7 @@
 
 - 🌍 I'm based in **India**
 - 📫 Contact me: [nitishojha00@gmail.com](mailto:nitishojha00@gmail.com)
-- 🚀 Currently working on: [Competitive Coding Skills](https://leetcode.com/) & Web Devlopemnt Skills 🔥.
+- 🚀 Currently working on: [Competitive Coding Skills](https://leetcode.com/) & Web Devlopement Skills 🔥.
 - 🤝 Open to collaborating on **Web Development Projects** and **Competitive Programming**
 
 [![GitHub followers](https://img.shields.io/github/followers/Nitishojha00?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917)](https://github.com/Nitishojha00)
