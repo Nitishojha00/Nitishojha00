@@ -157,9 +157,12 @@ Short description of the project and what problem it solves.
 
 ### ☕ Support
 
-<p>
+
+<p style="text-align: center;">
   <a href="https://www.buymeacoffee.com/nitishojha6" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 45px;" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+         alt="Buy Me A Coffee"
+         style="height: 45px;" />
   </a>
 </p>
 
@@ -167,5 +170,5 @@ Short description of the project and what problem it solves.
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nitishojha00&label=Visitors&color=1c1917&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=Nitishojha00&label=Visitors&color=0891b2&style=for-the-badge" />
 </p>
