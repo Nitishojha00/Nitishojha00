@@ -87,7 +87,6 @@ A productivity-focused web application designed to help developers track their c
 🔹 **Tech Stack:** React, Node.js, Express, MongoDB  
 🔹 **Features:** Task tracking, progress visualization, user authentication  
 🔹 **GitHub:** https://github.com/Nitishojha00/COD_TRAKR  
-🔹 **Live Demo:** https://codtrakr.nitishojha.in/
 
 ---
 
@@ -97,7 +96,6 @@ A real-time chat application that enables seamless communication between users w
 🔹 **Tech Stack:** MERN Stack, WebSockets  
 🔹 **Features:** Real-time messaging, authentication, responsive UI  
 🔹 **GitHub:** https://github.com/Nitishojha00/Talksy  
-🔹 **Live Demo:** https://talksy.nitishojha.in/
 
 ---
 
