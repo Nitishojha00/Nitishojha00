@@ -113,24 +113,20 @@ Short description of the project and what problem it solves.
 
 ## 📊 GitHub Stats
 
-<div>
+<!-- Main Stats -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nitishojha00&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" width="60%" />
 
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nitishojha00&show_icons=true&theme=github_dark&hide_border=true" width="60%" />
-  
-  <br/>
+<br/>
 
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishojha00&layout=compact&theme=github_dark&hide_border=true" width="50%"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nitishojha00&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="50%"/>
 
-  <br/>
+<br/>
 
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=Nitishojha00&theme=github-dark&hide_border=true" width="60%"/>
 
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com?user=Nitishojha00&theme=github-dark&hide_border=true" width="60%"/>
-
-  
-</div>
+---
 
 ## 🌐 Let's Connect
 
