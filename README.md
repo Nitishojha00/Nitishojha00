@@ -114,12 +114,12 @@ Short description of the project and what problem it solves.
 ## 📊 GitHub Stats
 
 <!-- Main Stats -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nitishojha00&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Nitishojha00&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" width="60%" />
 
 <br/>
 
 <!-- Top Languages -->
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nitishojha00&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="50%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitishojha00&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" width="50%"/>
 
 <br/>
 
