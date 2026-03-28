@@ -84,7 +84,7 @@ Here are some of my featured works 👇
 ## 🧠 CodTrakr
 A productivity-focused web application designed to help developers track their coding progress, manage tasks, and stay consistent. It provides a clean dashboard where users can monitor their daily activity, set goals, and visualize their progress over time.
 
-🔹 **Tech Stack:** React, Node.js, Express, MongoDB  
+🔹 **Tech Stack:** HTML, CSS, JS , Node.js, Express, MongoDB  
 🔹 **Features:** Task tracking, progress visualization, user authentication  
 🔹 **GitHub:** https://github.com/Nitishojha00/COD_TRAKR  
 
