@@ -116,8 +116,8 @@ Short description of the project and what problem it solves.
 <div>
 
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Nitishojha00&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" width="60%"/>
-
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nitishojha00&show_icons=true&theme=github_dark&hide_border=true" width="60%" />
+  
   <br/>
 
   <!-- Top Languages -->
