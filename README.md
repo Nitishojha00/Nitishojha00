@@ -4,7 +4,7 @@
 
 <h1>👨‍💻 Nitish Ojha</h1>
 
-<p><strong>Full Stack Devloper &nbsp;·&nbsp; Competitive Programmer &nbsp;·&nbsp; B.Tech CSE @ AITD Kanpur</strong></p>
+<p><strong>Full Stack Developer &nbsp;·&nbsp; Competitive Programmer &nbsp;·&nbsp; B.Tech CSE @ AITD Kanpur</strong></p>
 
 <p>
   <a href="https://www.nitishojha.in"><img src="https://img.shields.io/badge/🌐_Portfolio-nitishojha.in-58a6ff?style=for-the-badge&labelColor=0d1117"/></a>&nbsp;
