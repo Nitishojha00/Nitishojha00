@@ -51,5 +51,9 @@ I’m particularly interested in understanding how software development methodol
 Always learning. Always building.
 
 ---
+## Sample Work Explanation 
+
+One of my Project Explanation 
+Link - https://drive.google.com/file/d/1BMmGkeKrxe2GK2NCCFSNQMPZ6GGKb78y/view?usp=drive_link
 
 ### Based in India · Exploring Backend Engineering, System Design & Software Architecture
