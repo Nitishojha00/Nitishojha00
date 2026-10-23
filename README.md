@@ -1,59 +1,112 @@
-# Nitish Ojha
+# Hi, I'm Nitish Ojha 👋
 
-Backend Devloper • Competitive Programmer • Building scalable systems
+### Full-Stack Developer | Backend Engineering | Generative AI | DSA Enthusiast
 
-I enjoy designing and building software that solves real problems. My interests span backend engineering, distributed systems, system design, and developer tools.
+I'm a **2027 B.Tech Computer Science student** passionate about building scalable web applications, reliable backend systems, and AI-powered products.
 
-Through competitive programming, personal projects, and continuous learning, I've developed a strong foundation in problem-solving and software development. My long-term goal is to understand how high-quality software is designed, built, and scaled in real-world environments.
-
----
-
-## What I'm Focused On
-
-* Backend Engineering with Node.js & Express.js
-* Distributed Systems & System Design
-* Cloud Infrastructure & DevOps
-* Performance Optimization
-* Building products from idea to deployment
+- 🔭 Building projects across **Full-Stack Development, Backend Engineering, and Generative AI**
+- 🧠 Strong foundation in **Data Structures & Algorithms, OOP, DBMS, OS, and Computer Networks**
+- 💻 Solved **1,400+ DSA problems** across competitive programming platforms
+- 🏆 LeetCode: **1800+ rating** | CodeChef: **1550+ rating**
+- 🌱 Exploring **RAG, LLM integrations, vector databases, and backend system design**
+- 🎯 Open to Software Engineering, Backend, Full-Stack, and GenAI opportunities
 
 ---
 
-## Current Stack
+## 🚀 Featured Projects
 
-```text
-Languages   C++ · JavaScript · TypeScript
-Backend     Node.js · Express.js · REST APIs
-Database    PostgreSQL · MongoDB · Redis
-Frontend    React
-Tools       Git · GitHub Actions · Linux
-```
+### 1. CODTRAKR — Competitive Programming Tracker
 
-## Philosophy
+A platform that aggregates competitive programming profiles and statistics from multiple coding platforms into one place.
 
-I believe good software starts with strong fundamentals: clear architecture, maintainable code, thoughtful trade-offs, and continuous learning.
+**Key Features**
+- Automated profile data collection and aggregation across coding platforms.
+- Redis caching to improve response times and reduce repeated database queries.
+- Secure authentication using email OTP verification, JWT cookies, and password hashing.
+- Rate limiting and cache invalidation for more reliable backend operations.
 
-Technology changes quickly, but problem-solving, system thinking, and engineering discipline remain timeless.
+**Tech Stack:** React.js · Node.js · Express.js · MongoDB · Redis · Puppeteer · Gemini API · REST APIs
+
+🔗 [GitHub Repository](https://github.com/Nitishojha00)
+
+---
+
+### 2. RAG Book Assistant — AI-Powered Document Q&A
+
+A full-stack Generative AI application that allows users to ask questions about documents and receive context-aware answers with source citations.
+
+**Key Features**
+- Document ingestion, text chunking, and embedding generation.
+- Semantic search using vector embeddings and Qdrant.
+- Retrieval-Augmented Generation (RAG) for document-grounded answers.
+- Duplicate upload prevention using SHA-256 hashing.
+- Containerized deployment using Docker Compose.
+
+**Tech Stack:** React.js · Vite · Node.js · Express.js · Gemini API · Embeddings · Qdrant · Docker · REST APIs
+
+🔗 [GitHub Repository](https://github.com/Nitishojha00)
 
 ---
 
-## Building
+### 3. Talksy — Real-Time Chat Application
 
-Currently exploring:
+A real-time messaging application that enables users to communicate through individual and group conversations.
 
-* Distributed Systems
-* System Design
-* Backend Architecture
-* Machine Learning Systems
-* Software Engineering Practices
+**Key Features**
+- Real-time messaging powered by Socket.IO.
+- One-to-one and group chat functionality.
+- JWT-based authentication and protected application routes.
+- Heartbeat mechanism for connection health monitoring.
 
-I’m particularly interested in understanding how software development methodologies such as Waterfall, Prototype, and Agile are applied in real-world engineering teams, and how architectural decisions influence the success of large-scale systems.
+**Tech Stack:** MongoDB · Express.js · React.js · Node.js · Socket.IO · JWT
 
-Always learning. Always building.
+🔗 [GitHub Repository](https://github.com/Nitishojha00)
 
 ---
-## Sample Work Explanation 
 
-One of my Project Explanation 
-Link - https://drive.google.com/file/d/1BMmGkeKrxe2GK2NCCFSNQMPZ6GGKb78y/view?usp=drive_link
+## 🛠️ Tech Stack
 
-### Based in India · Exploring Backend Engineering, System Design & Software Architecture
+**Languages**
+
+`C++` `JavaScript` `Python` `Java` `SQL`
+
+**Frontend**
+
+`React.js` `HTML5` `CSS3` `Vite`
+
+**Backend**
+
+`Node.js` `Express.js` `REST APIs` `JWT Authentication`
+
+**Databases & Caching**
+
+`MongoDB` `Redis` `PostgreSQL` `Qdrant`
+
+**Generative AI**
+
+`RAG` `LLM Integration` `Gemini API` `Embeddings` `Semantic Search` `LangChain`
+
+**Tools & DevOps**
+
+`Git` `GitHub` `Docker` `Postman` `Vercel` `Render`
+
+---
+
+## 📊 Coding Profiles
+
+- 💡 [LeetCode](https://leetcode.com/__Nitish___Ojha/)
+- 🍜 [CodeChef](https://www.codechef.com/)
+- ⚔️ [Codeforces](https://codeforces.com/profile/nitishojha)
+- 📈 [Codolio](https://codolio.com/profile/Nitish_Ojha)
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/nitishojha00/)
+- 💻 [GitHub](https://github.com/Nitishojha00)
+- 📧 Email: [nitishojha00@gmail.com](mailto:nitishojha00@gmail.com)
+
+I'm always interested in building useful products, solving challenging engineering problems, and collaborating with developers.
+
+**⭐ Feel free to explore my repositories and connect!**
